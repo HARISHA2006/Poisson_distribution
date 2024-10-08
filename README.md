@@ -73,6 +73,7 @@ else:
 
 # Output : 
 
+![maths exp2](https://github.com/user-attachments/assets/ca6372d3-db97-42ce-988b-3f6c375e7f35)
 
 
 # Results
